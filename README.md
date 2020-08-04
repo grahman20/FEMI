@@ -1,0 +1,2 @@
+# FEMI-master
+FEMI (Fuzzy Clustering-based Missing Value Imputation Framework) for data preprocessing.  FEMI imputes numerical and categorical missing values by making an educated guess based on records that are similar to the record having a missing value. While identifying a group of similar records and making a guess based on the group, it applies a fuzzy clustering approach and our novel fuzzy expectation maximization algorithm.
