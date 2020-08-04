@@ -3,11 +3,10 @@ FEMI (Fuzzy Clustering-based Missing Value Imputation Framework) for data prepro
 
 Reference
 
-Rahman M. G. and Islam M. Z. (2016): Missing Value Imputation using a Fuzzy Clustering based EM Approach, Knowledge and Information Systems, Vol. 46 (2), pp. 389 – 422. DOI: 10.1007/s10115-015-0822-y. </li> 
- *  
- * @author Md Geaur Rahman <gea.bau.edu.bd>
- */
+Rahman M. G. and Islam M. Z. (2016): Missing Value Imputation using a Fuzzy Clustering based EM Approach, Knowledge and Information Systems, Vol. 46 (2), pp. 389 – 422. DOI: 10.1007/s10115-015-0822-y. 
  
+ @author Md Geaur Rahman <gea.bau.edu.bd>
+  
  Two folders:
  
  1. FEMI_Master (NetBeans project)
@@ -23,11 +22,19 @@ Rahman M. G. and Islam M. Z. (2016): Missing Value Imputation using a Fuzzy Clus
 Sample input and output:
 run:
 Please enter the name of the file containing the 2 line attribute information.(example: c:\data\attrinfo.txt?)
+
 C:\Gea\Research\FEMI\SampleData\attrinfo.txt
+
 Please enter the name of the data file having missing values: (example: c:\data\data.txt?)
+
 C:\Gea\Research\FEMI\SampleData\data.txt
+
 Please enter the name of the output file: (example: c:\data\out.txt?)
+
 C:\Gea\Research\FEMI\SampleData\output.txt
 
+
 Imputation by FEMI is done. The completed data set is written to: 
+
 C:\Gea\Research\FEMI\SampleData\output.txt
+
