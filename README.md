@@ -21,15 +21,15 @@ Rahman M. G. and Islam M. Z. (2016): Missing Value Imputation using a Fuzzy Clus
 
 # Sample input and output:
 run:
-Please enter the name of the file containing the 2 line attribute information.(example: c:\data\attrinfo.txt?)
+Please enter the name of the file containing the 2 line attribute information.(example: c:\data\attrinfo.txt)
 
 C:\Gea\Research\FEMI\SampleData\attrinfo.txt
 
-Please enter the name of the data file having missing values: (example: c:\data\data.txt?)
+Please enter the name of the data file having missing values: (example: c:\data\data.txt)
 
 C:\Gea\Research\FEMI\SampleData\data.txt
 
-Please enter the name of the output file: (example: c:\data\out.txt?)
+Please enter the name of the output file: (example: c:\data\out.txt)
 
 C:\Gea\Research\FEMI\SampleData\output.txt
 
