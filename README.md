@@ -4,7 +4,21 @@ FEMI (Fuzzy Clustering-based Missing Value Imputation Framework) for data prepro
 # Reference
 
 Rahman M. G. and Islam M. Z. (2016): Missing Value Imputation using a Fuzzy Clustering based EM Approach, Knowledge and Information Systems, Vol. 46 (2), pp. 389 – 422. DOI: 10.1007/s10115-015-0822-y. 
- 
+
+## BibTeX
+```
+@article{rahman2016missing,
+  title={Missing value imputation using a fuzzy clustering-based EM approach},
+  author={Rahman, Md Geaur and Islam, Md Zahidul},
+  journal={Knowledge and Information Systems},
+  volume={46},
+  number={2},
+  pages={389--422},
+  year={2016},
+  publisher={Springer}
+}
+```
+
 @author Md Geaur Rahman <https://csusap.csu.edu.au/~grahman/>
   
 # Two folders:
