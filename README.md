@@ -37,15 +37,15 @@ Rahman M. G. and Islam M. Z. (2016): Missing Value Imputation using a Fuzzy Clus
 run:
 Please enter the name of the file containing the 2 line attribute information.(example: c:\data\attrinfo.txt)
 
-C:\Gea\Research\FEMI\SampleData\attrinfo.txt
+C:\SampleData\attrinfo.txt
 
 Please enter the name of the data file having missing values: (example: c:\data\data.txt)
 
-C:\Gea\Research\FEMI\SampleData\data.txt
+C:\SampleData\data.txt
 
 Please enter the name of the output file: (example: c:\data\out.txt)
 
-C:\Gea\Research\FEMI\SampleData\output.txt
+C:\SampleData\output.txt
 
 
 Imputation by FEMI is done. The completed data set is written to: 
